@@ -6,11 +6,7 @@ He trabajado en proyectos académicos y freelance, adquiriendo valiosa experienc
 Soy creativo, orientado a la resolución de problemas y tengo un enfoque constante en el aprendizaje y el crecimiento profesional. Mi objetivo es seguir desarrollando mis habilidades para alcanzar un alto nivel de competencia en el campo del desarrollo de software y contribuir con soluciones innovadoras y de calidad.
 
 ## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anibalpradofullstackmern)
-
-<a href="mailto:antonioprado5606@gmail.com/" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anibalpradofullstackmern) <a href="mailto:antonioprado5606@gmail.com/" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" /></a>
 
 
 ## 💻 Tecnologías:
